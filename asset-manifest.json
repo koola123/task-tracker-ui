@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/task-tracker-ui/static/css/main.e2da8667.chunk.css",
-    "main.js": "/task-tracker-ui/static/js/main.1d1678b5.chunk.js",
-    "main.js.map": "/task-tracker-ui/static/js/main.1d1678b5.chunk.js.map",
+    "main.js": "/task-tracker-ui/static/js/main.e16bad75.chunk.js",
+    "main.js.map": "/task-tracker-ui/static/js/main.e16bad75.chunk.js.map",
     "runtime-main.js": "/task-tracker-ui/static/js/runtime-main.6b97fce3.js",
     "runtime-main.js.map": "/task-tracker-ui/static/js/runtime-main.6b97fce3.js.map",
     "static/js/2.c6414d73.chunk.js": "/task-tracker-ui/static/js/2.c6414d73.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6b97fce3.js",
     "static/js/2.c6414d73.chunk.js",
     "static/css/main.e2da8667.chunk.css",
-    "static/js/main.1d1678b5.chunk.js"
+    "static/js/main.e16bad75.chunk.js"
   ]
 }
