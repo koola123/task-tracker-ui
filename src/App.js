@@ -30,7 +30,7 @@ const App = () => {
       {
         id: 4,
         text: "Mietwagen abholen",
-        day: "10.01.2021 / 15:00 Uhr",
+        day: "10.01.2022 / 15:00 Uhr",
         reminder: true,
       }
     ]
