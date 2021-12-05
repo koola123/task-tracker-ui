@@ -30,8 +30,8 @@ const AddNote = ({ onAdd }) => {
           value={text} onChange={(e) => setText(e.target.value)} />
       </div>
       <div className="form-control">
-        <label>Wochentag & Uhrzeit</label>
-        <input type="text" placeholder="Datum und Uhrzeit"
+        <label>Tag & Uhrzeit</label>
+        <input type="text" placeholder="Tag & Uhrzeit"
           value={day} onChange={(e) => setDay(e.target.value)} />
       </div>
       <div className="form-control form-control-check">

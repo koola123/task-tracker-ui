@@ -1,9 +1,9 @@
-import { FaRegTrashAlt } from "react-icons/fa"
+import { FaTimes } from "react-icons/fa"
 
 const Note = ({ note, onDelete, onToggle }) => {
   return (
     <div className={`note ${note.reminder ? "reminder" : ""}`} onDoubleClick={() => onToggle(note.id)}>
-      <h3>{note.text} <FaRegTrashAlt style={{ color: "black", cursor: "pointer" }} onClick={() => onDelete(note.id)} /></h3>
+      <h3>{note.text} <FaTimes style={{ color: "green", cursor: "pointer" }} onClick={() => onDelete(note.id)} /></h3>
       <p>{note.day}</p>
     </div>
   )

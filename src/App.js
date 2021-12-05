@@ -12,7 +12,7 @@ const App = () => {
       {
         id: 1,
         text: "Book flight tickets",
-        day: "Dec 23rd at 2:30pm",
+        day: "Dec 18th at 2:30pm",
         reminder: true,
       },
       {
@@ -24,13 +24,13 @@ const App = () => {
       {
         id: 3,
         text: "Hotel booking",
-        day: "Dec 20th at 11:00am",
+        day: "Dec 9th at 11:00am",
         reminder: true,
       },
       {
         id: 4,
         text: "Go to Hertz rental station",
-        day: "Dec 23rd at 2:30am",
+        day: "Jan 1st at 10:00am",
         reminder: true,
       }
     ]
@@ -67,7 +67,7 @@ const App = () => {
       {notes.length > 0 ? (<Notes notes={notes}
         onDelete={deleteNote} onToggle={toggleReminder}
       />
-      ) : ('Keine Notizen zum Anzeigen vorhanden.'
+      ) : ('Keine Notizen vorhanden.'
       )}
     </div >
   );
