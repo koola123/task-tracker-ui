@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/task-tracker-ui/static/css/main.e452a9ef.chunk.css",
-    "main.js": "/task-tracker-ui/static/js/main.b3b1a0f9.chunk.js",
-    "main.js.map": "/task-tracker-ui/static/js/main.b3b1a0f9.chunk.js.map",
+    "main.css": "/task-tracker-ui/static/css/main.8b984ccf.chunk.css",
+    "main.js": "/task-tracker-ui/static/js/main.ab1bf81a.chunk.js",
+    "main.js.map": "/task-tracker-ui/static/js/main.ab1bf81a.chunk.js.map",
     "runtime-main.js": "/task-tracker-ui/static/js/runtime-main.6b97fce3.js",
     "runtime-main.js.map": "/task-tracker-ui/static/js/runtime-main.6b97fce3.js.map",
     "static/js/2.be7cb8ba.chunk.js": "/task-tracker-ui/static/js/2.be7cb8ba.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.1593dc86.chunk.js": "/task-tracker-ui/static/js/3.1593dc86.chunk.js",
     "static/js/3.1593dc86.chunk.js.map": "/task-tracker-ui/static/js/3.1593dc86.chunk.js.map",
     "index.html": "/task-tracker-ui/index.html",
-    "static/css/main.e452a9ef.chunk.css.map": "/task-tracker-ui/static/css/main.e452a9ef.chunk.css.map",
+    "static/css/main.8b984ccf.chunk.css.map": "/task-tracker-ui/static/css/main.8b984ccf.chunk.css.map",
     "static/js/2.be7cb8ba.chunk.js.LICENSE.txt": "/task-tracker-ui/static/js/2.be7cb8ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b97fce3.js",
     "static/js/2.be7cb8ba.chunk.js",
-    "static/css/main.e452a9ef.chunk.css",
-    "static/js/main.b3b1a0f9.chunk.js"
+    "static/css/main.8b984ccf.chunk.css",
+    "static/js/main.ab1bf81a.chunk.js"
   ]
 }
