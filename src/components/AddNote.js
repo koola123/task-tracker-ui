@@ -26,7 +26,7 @@ const AddNote = ({ onAdd }) => {
     <form className="add-form" onSubmit={onSubmit}>
       <div className="form-control">
         <label>Notiz</label>
-        <input type="text" placeholder="Notiz hinzfügen"
+        <input type="text" placeholder="Notiz hinzufügen"
           value={text} onChange={(e) => setText(e.target.value)} />
       </div>
       <div className="form-control">

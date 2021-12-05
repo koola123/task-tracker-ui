@@ -11,26 +11,26 @@ const App = () => {
     [
       {
         id: 1,
-        text: "Book flight tickets",
-        day: "Dec 18th at 2:30pm",
+        text: "Flugtickets buchen",
+        day: "18.12.2021 / 10:00 Uhr",
         reminder: true,
       },
       {
         id: 2,
         text: "Christmas shopping",
-        day: "Dec 20th at 4:30pm",
+        day: "18.12.2021 / 16:30 Uhr",
         reminder: false,
       },
       {
         id: 3,
-        text: "Hotel booking",
-        day: "Dec 9th at 11:00am",
+        text: "Hotel buchen",
+        day: "19.12.2021 / 11:00 Uhr",
         reminder: true,
       },
       {
         id: 4,
-        text: "Go to Hertz rental station",
-        day: "Jan 1st at 10:00am",
+        text: "Mietwagen abholen",
+        day: "10.01.2021 / 15:00 Uhr",
         reminder: true,
       }
     ]

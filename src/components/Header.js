@@ -4,15 +4,15 @@ import Button from "./Button"
 const Header = ({ text, onAdd, showAdd }) => {
   return (
     <div className="header">
-      <h1 style={{ cborderBottom: "5px solid green" }}>{text}</h1>
-      <Button className="btn" color={showAdd ? "red" : "green"} text={showAdd ? "Schließen" : "Hinzufügen"} onClick={onAdd} />
+      <h1 style={{ cborderBottom: "5px solid green", padding: "10px 20px", borderRadius: 100 }}>{text}</h1>
+      <Button className="btn" color={showAdd ? "red" : "green"} text={showAdd ? "Schließen" : "Öffnen"} onClick={onAdd} />
     </div>
   )
 }
 
 // Default Props for Header
 Header.defaultProps = {
-  text: "Task Tracker"
+  text: "Aufgabenplaner"
 }
 
 // Prop Types for Header
