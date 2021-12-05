@@ -12,7 +12,7 @@ const Header = ({ text, onAdd, showAdd }) => {
 
 // Default Props for Header
 Header.defaultProps = {
-  text: "Aufgabenplaner"
+  text: "Task Tracker"
 }
 
 // Prop Types for Header
